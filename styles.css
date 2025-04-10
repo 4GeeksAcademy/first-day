@@ -1,0 +1,53 @@
+
+
+.full-project {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+
+}
+
+.header-text-full {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    
+    
+}
+
+
+span {
+    font-weight: bolder;
+}
+
+.dots {
+    justify-self:flex-end
+    
+}
+
+.chinatown-image {
+    width: 500px;
+    height: 500px;
+
+}
+
+.cute-emojis {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    
+    
+
+}
+
+.cute-emojis-bookmark {
+    justify-self:end;
+
+}
+
+
+
+.fake-text {
+    width: 500px;
+}
