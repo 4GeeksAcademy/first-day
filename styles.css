@@ -1,53 +1,40 @@
-
-
-.full-project {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-
-
+.header-text-fuller {
+    text-align: center;
 }
+
+
 
 .header-text-full {
-    width: 100%;
     display: flex;
-    justify-content: center;
-    
-    
 }
 
 
-span {
-    font-weight: bolder;
-}
-
-.dots {
-    justify-self:flex-end
+.space {
+    display: flex;
+    justify-content: space-evenly;
+    
+   
     
 }
 
-.chinatown-image {
-    width: 500px;
-    height: 500px;
+.html5-logo {
+    padding: 9px;
+    /*how can i align the logo with the text*/
+}
 
+.text-only {
+    line-height: 0px;
+}
+
+img {
+    text-align: center;
 }
 
 .cute-emojis {
     display: flex;
-    width: 100%;
-    justify-content: center;
-    
-    
-
+    justify-content: space-evenly;
 }
 
-.cute-emojis-bookmark {
-    justify-self:end;
-
-}
-
-
-
-.fake-text {
-    width: 500px;
+span {
+    font-weight: bolder;
 }
